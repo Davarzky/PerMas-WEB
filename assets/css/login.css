@@ -4,7 +4,8 @@ body{
 .all-login{
     height: 350px;
     width: 350px;
-    border: 1px solid black;
+    box-shadow: 2px 2px 5px black;
+    border-radius: 10px;
     margin: auto;
     margin-top: 10%;
 }

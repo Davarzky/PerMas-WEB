@@ -1,0 +1,46 @@
+body{
+    margin: 0;
+}
+.Navbar{
+    height: 70px;
+    width: 100vw;
+    background-color: #16B8EC;
+    display: flex;
+}
+.Navbar-left h1{
+    margin: 0;
+    margin-top: 10px;
+    margin-left: 30px;
+    color: white;
+    font-size: 36px;
+}
+.Navbar-left{
+    display: flex;
+}
+.menu-left{
+    margin-top: 25px;
+    margin-left: 50px;
+}
+.menu-left a{
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+}
+#About{
+    margin-left: 20px;
+}
+.Navbar-Right {
+    margin-left: auto;
+}
+.Navbar-Right a{
+    text-decoration: none;
+    color: white;
+    margin-right: 25px;
+    font-size: 18px;
+}
+.menu-right{
+    margin-top: 25px;
+}
+#login{
+    margin-right: 20px;
+}

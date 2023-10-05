@@ -105,16 +105,19 @@ body{
     height: 30px;
 }
 #Lapor{
-    margin-left: 80%;
+    margin-left: 79%;
     
 
 }
 #Lapor-button{
-    height: 70px;
-    height: 30px;
+    width: 100px;
+    height: 40px;
     background-color: #16B8EC;
     color: white;
     border: none;
     border-radius: 10px;
     margin-top: 20px;
+}
+#Ajukan-pengaduan{
+    margin-left: 25px;
 }

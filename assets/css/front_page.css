@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    background-color: #16B8EC;
+    font-family: 'Open Sans';
+}
+.all{
+    margin-left: 20%;
+    
+}
+.judul{
+    margin-top: 5%;
+    font-size: 40px;
+    color: white;
+}
+.isi{
+    margin-top: -3%;
+    color: white;
+    font-size: 20px;
+}
+.foot{
+    margin-left: 50%;
+    
+
+}
+.foot button{
+    width: 120px;
+    height: 45px;
+    border-radius: 25px;
+    border: none;
+    color: #16B8EC;
+}

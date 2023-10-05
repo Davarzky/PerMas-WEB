@@ -25,6 +25,12 @@ body{
     text-decoration: none;
     color: white;
     font-size: 18px;
+
+}
+.menu-left a:hover{
+    background-color: white;
+    color: #16B8EC;
+    border-radius: 10px;
 }
 #About{
     margin-left: 20px;
@@ -38,6 +44,11 @@ body{
     margin-right: 25px;
     font-size: 18px;
 }
+.Navbar-Right a:hover{
+    background-color: white;
+    color: #16B8EC;
+    border-radius: 10px;
+}
 .menu-right{
     margin-top: 25px;
 }
@@ -49,4 +60,28 @@ body{
     height: 80vh;
     width: 90vw;
     margin-left: 5%;
+}
+.namtag{
+    display: flex;
+}
+.tanggal{
+    margin-left: 100px;
+}
+#Tanggal{
+    width: 300px;
+    height: 25px;
+}
+.nama{
+    margin-left: 50px;
+}
+#Nama{
+    width: 300px;
+    height: 25px;
+}
+#Pengaduan{
+    height: 300px;
+    width: 1000px;
+}
+.pengaduan{
+    margin-left: 50px;
 }

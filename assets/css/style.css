@@ -83,5 +83,38 @@ body{
     width: 1000px;
 }
 .pengaduan{
+    margin-top: 10px;
     margin-left: 50px;
+}
+.Lokasi{
+    margin-left: 50px;
+    margin-top: 10px;
+}
+.Lokasi select{
+    height: 30px;
+    width: 300px;
+}
+.lokgor{
+    display: flex;
+}
+.kategori{
+    margin-top: 10px;
+    margin-left: 50px
+}
+#Kategori{
+    height: 30px;
+}
+#Lapor{
+    margin-left: 80%;
+    
+
+}
+#Lapor-button{
+    height: 70px;
+    height: 30px;
+    background-color: #16B8EC;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    margin-top: 20px;
 }

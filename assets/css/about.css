@@ -1,0 +1,86 @@
+body{
+    margin: 0;
+}
+.head img{
+    margin: 0;
+    height: 70vh;
+    width: 100vw;
+}
+.head h3{
+    margin-top: -30%;
+    color: white;
+    margin-left: 15%;
+    font-size: 25px;
+}
+.foot{
+    background-color: #16B8EC;
+    height: 40vh;
+    width: 100vw;
+    margin-top: 5%;
+}
+.Navbar{
+    height: 70px;
+    width: 100vw;
+    background-color: #16B8EC;
+    display: flex;
+}
+.Navbar-left h1{
+    margin: 0;
+    margin-top: 10px;
+    margin-left: 30px;
+    color: white;
+    font-size: 36px;
+}
+.Navbar-left{
+    display: flex;
+}
+.menu-left{
+    margin-top: 25px;
+    margin-left: 50px;
+}
+.menu-left a{
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+
+}
+.menu-left a:hover{
+    background-color: white;
+    color: #16B8EC;
+    border-radius: 10px;
+}
+#About{
+    margin-left: 20px;
+}
+.Navbar-Right {
+    margin-left: auto;
+}
+.Navbar-Right a{
+    text-decoration: none;
+    color: white;
+    margin-right: 25px;
+    font-size: 18px;
+}
+.Navbar-Right a:hover{
+    background-color: white;
+    color: #16B8EC;
+    border-radius: 10px;
+}
+.menu-right{
+    margin-top: 25px;
+}
+#login{
+    margin-right: 20px;
+}
+#Ajukan-pengaduan{
+    margin-left: 25px;
+}
+#Lapor-button{
+    width: 100px;
+    height: 40px;
+    background-color: #16B8EC;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    margin-left: 70%;
+}

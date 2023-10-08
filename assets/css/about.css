@@ -18,6 +18,16 @@ body{
     width: 100vw;
     margin-top: 5%;
 }
+.foot a{
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+}
+.foot h3{
+    color: white;
+    margin: 0;
+}
+
 .Navbar{
     height: 70px;
     width: 100vw;
@@ -49,9 +59,6 @@ body{
     color: #16B8EC;
     border-radius: 10px;
 }
-#About{
-    margin-left: 20px;
-}
 .Navbar-Right {
     margin-left: auto;
 }
@@ -75,6 +82,10 @@ body{
 #Ajukan-pengaduan{
     margin-left: 25px;
 }
+#About{
+    margin-left: 20px;
+}
+
 #Lapor-button{
     width: 100px;
     height: 40px;
@@ -84,3 +95,4 @@ body{
     border-radius: 10px;
     margin-left: 70%;
 }
+

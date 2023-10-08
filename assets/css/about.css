@@ -1,6 +1,7 @@
 body{
     margin: 0;
 }
+
 .head img{
     margin: 0;
     height: 70vh;
@@ -18,15 +19,7 @@ body{
     width: 100vw;
     margin-top: 5%;
 }
-.foot a{
-    color: white;
-    text-decoration: none;
-    font-size: 18px;
-}
-.foot h3{
-    color: white;
-    margin: 0;
-}
+
 
 .Navbar{
     height: 70px;

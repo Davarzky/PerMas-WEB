@@ -65,22 +65,22 @@ body{
     display: flex;
 }
 .tanggal{
-    margin-left: 100px;
+    margin-left: 10%;
 }
 #Tanggal{
-    width: 300px;
+    width: 200%;
     height: 25px;
 }
 .nama{
     margin-left: 50px;
 }
 #Nama{
-    width: 300px;
+    width: 130%;
     height: 25px;
 }
 #Pengaduan{
     height: 300px;
-    width: 1000px;
+    width: 89%;
 }
 .pengaduan{
     margin-top: 10px;
@@ -92,17 +92,17 @@ body{
 }
 .Lokasi select{
     height: 30px;
-    width: 300px;
+    width: 150%;
 }
 .lokgor{
     display: flex;
 }
 .kategori{
     margin-top: 10px;
-    margin-left: 50px
+    margin-left: 15%;
 }
 #Kategori{
-    height: 30px;
+    height: 30%;
 }
 #Lapor{
     margin-left: -10%;
